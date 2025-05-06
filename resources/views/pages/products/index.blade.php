@@ -4,7 +4,11 @@
 <table border="1" cellpadding="10">
     <thead>
         <tr>
-            <th>Name</th><th>Price</th><th>Sizes</th><th>Images</th><th>Action</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Sizes</th>
+            <th>Images</th>
+            <th>Action</th>
         </tr>
     </thead>
     <tbody>
